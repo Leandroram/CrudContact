@@ -1,4 +1,4 @@
-Projeto feito em Java usando o NetBeans e Xampp.
+Projeto feito em Java Swing usando o NetBeans e Xampp.
 Um sistema de CRUD simples, com paginação, Adicionar, Editar, Excluir e listar. Tem os campos de busca e cores de definem o status.
 ------------------------------------------------
 ------------------------------------------------
